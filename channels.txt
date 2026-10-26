@@ -1,0 +1,7 @@
+# username канала (как в t.me/<username>), по одному на строку
+trends
+temalebedev
+universityinnopolis
+enter_career
+exploitex
+amica_fashion
